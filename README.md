@@ -1,8 +1,11 @@
 # diplomPromyhlennaya
 
 A simple application for training in "Netology"
+
 Analogue of VKontakte
+
 This application allows for simple registration and validation of data entry
+
 A profile has been created with a photo and personal identification number
 It is possible to open your profile photo in full screen
 View the photo feed when moving to the next screen and open the content in full screen
