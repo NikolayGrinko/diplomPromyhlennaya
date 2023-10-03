@@ -1,25 +1,25 @@
 # diplomPromyhlennaya
 
-A simple application for training in "Netology".
+1.A simple application for training in "Netology".
 
-Analogue of VKontakte.
+2.Analogue of VKontakte.
 
-This application allows for simple registration and validation of data entry.
+3.This application allows for simple registration and validation of data entry.
 
-A profile has been created with a photo and personal identification number.
+4.A profile has been created with a photo and personal identification number.
 
-It is possible to open your profile photo in full screen.
+5.It is possible to open your profile photo in full screen.
 
-View the photo feed when moving to the next screen and open the content in full screen.
+6.View the photo feed when moving to the next screen and open the content in full screen.
 
-Posts with photos and descriptions have been loaded.
+7.Posts with photos and descriptions have been loaded.
 
-When you open a post, the number of views changes.
+8.When you open a post, the number of views changes.
 
-It is possible to like by clicking on the heart (it will turn pink).
+9.It is possible to like by clicking on the heart (it will turn pink).
 
 
-Use it for whoever needs it.
+-Use it for whoever needs it.
 
 
 
